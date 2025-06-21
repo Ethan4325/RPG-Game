@@ -16,6 +16,7 @@ Saving & Loading: Resume your adventure with a personal save file (<YourName>_sa
 
 RPG Game.py — Main game script (contains all game logic)
 *.json — Save files created when a player chooses to save
+
 ▶️ How to Run
 
 Install Python 3
@@ -23,12 +24,16 @@ Make sure Python 3.x is installed on your system.
 Run the game
 Open your terminal or command prompt and navigate to the project folder:
 python3 "RPG Game.py"
+
 🧭 Gameplay Overview
 
 Start Screen
 New Game: Create a character and begin the adventure.
+
 Load Game: Resume from your last save.
+
 About: Game credits and info.
+
 Exit: Quit the game.
 In the Forest
 Move in any direction (N, S, E, W).
